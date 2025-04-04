@@ -1,0 +1,20 @@
+# Ignore virtual env
+venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Ignore test coverage reports
+htmlcov/
+.coverage
+
+# Ignore dist and build files
+dist/
+build/
+*.egg-info/
+
+# IDE/editor stuff
+.vscode/
+*.swp
+.DS_Store
